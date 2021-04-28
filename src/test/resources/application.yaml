@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: info
+
+demo:
+  project: demo
+  host: 127.0.0.1
